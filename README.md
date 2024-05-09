@@ -8,4 +8,4 @@
                        derive meaningful insights. I learned how to effectively use Excel for visualizing data comparisons and gained a deeper understanding of 
                        consumer behavior in the online food delivery sector.
  - **Keywords:** Data Visualization, Market Analysis, Consumer Behavior, Competitive Strategy
- - [**View Repo**] (C:\Users\lenovo\OneDrive\New folder\Projects\The Impact of Clan Culture on Corporate Culture)
+ - [**View Repo**] [BLACK BOOK - COMPARATIVE STUDY OF ZOMATO AND SWIGGY.pdf](https://github.com/Nidhimange/Nidhi-Mange/files/15256507/BLACK.BOOK.-.COMPARATIVE.STUDY.OF.ZOMATO.AND.SWIGGY.pdf)
